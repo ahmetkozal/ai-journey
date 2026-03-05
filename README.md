@@ -4,18 +4,18 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 
 ## Roadmap
 - [ ] **Mod 0:** Python Foundations (Helsinki MOOC)
-- [ ] *[Helsinki Python MOOC]*(https://programming-24.mooc.fi/)
+- [ ] *[Helsinki Python MOOC](https://programming-24.mooc.fi/)*
 - [ ] **Mod 1:** Data Analysis Toolkit
-- [ ] *[Kaggle data-visualization]*(https://www.kaggle.com/learn/data-visualization)
+- [ ] *[Kaggle data-visualization](https://www.kaggle.com/learn/data-visualization)*
 - [ ] **Mod 2:** Traditional Machine Learning
-- [ ] *[Stanford CS229: Machine Learning Full Course]*(https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [ ] *[Stanford CS229: Machine Learning Full Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)*
 - [ ] **Mod 3:** Deep Learning & PyTorch
-- [ ] *[fast.ai Practical Deep Learning]*(https://course.fast.ai/)
-- [ ] *[PyTorch Official Tutorials]*(https://docs.pytorch.org/tutorials/)
+- [ ] *[fast.ai Practical Deep Learning](https://course.fast.ai/)*
+- [ ] *[PyTorch Official Tutorials](https://docs.pytorch.org/tutorials/)*
 - [ ] **Mod 4:** LLMs & Generative AI
-- [ ] *[karpathy.ai Neural Networks: Zero to Hero]*(https://karpathy.ai/zero-to-hero.html)
-- [ ] *[Hugging Face - NLP Course]*(https://huggingface.co/learn/llm-course/chapter1/1)
-- [ ] *[The Illustrated Transformer (Blog)]*(https://jalammar.github.io/illustrated-transformer/)
+- [ ] *[karpathy.ai Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)*
+- [ ] *[Hugging Face - NLP Course](https://huggingface.co/learn/llm-course/chapter1/1)*
+- [ ] *[The Illustrated Transformer (Blog)](https://jalammar.github.io/illustrated-transformer/)*
 
 ## Learning Log
 *Format: [Date] | Topic | Key Takeaway / Blocker*
