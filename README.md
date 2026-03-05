@@ -4,7 +4,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 
 ## Roadmap
 - [ ] **Mod 0:** Python Foundations (Helsinki MOOC)
-- [ ] *[Helsinki Python MOOC](https://programming-24.mooc.fi/)*
+- [ ] *[Helsinki Python MOOC](https://programming-26.mooc.fi/)*
 - [ ] **Mod 1:** Data Analysis Toolkit
 - [ ] *[Kaggle data-visualization](https://www.kaggle.com/learn/data-visualization)*
 - [ ] **Mod 2:** Traditional Machine Learning
