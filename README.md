@@ -11,6 +11,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - [ ] *[Stanford CS229: Machine Learning Full Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)*
 - [ ] **Mod 3:** Deep Learning & PyTorch
 - [ ] *[fast.ai Practical Deep Learning](https://course.fast.ai/)*
+- [ ] *[deeplearning](https://www.deeplearning.ai/courses/machine-learning-specialization/)*
 - [ ] *[PyTorch Official Tutorials](https://docs.pytorch.org/tutorials/)*
 - [ ] **Mod 4:** LLMs & Generative AI
 - [ ] *[karpathy.ai Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)*
