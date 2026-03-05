@@ -37,6 +37,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 
 ### Reading Materials
 - [Distill.pub](https://distill.pub/)
+- [cs229 main_notes.pdf](https://cs229.stanford.edu/main_notes.pdf)
 - [The Batch - DeepLearning.AI](https://www.deeplearning.ai/the-batch/)
 
 ### SITES
