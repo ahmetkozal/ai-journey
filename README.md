@@ -28,7 +28,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - **Status:** Ready to start Mod 0: Python Foundations.
 ### 06 March 2026
 - **Topic:**  **Mod 0:** Python Foundations.
-- **Status:** Completed the Helsinki Python MOOC Part 1, solved exercies. And I reviewed my Python knowledge.
+- **Status:** Completed the Helsinki Python MOOC *[Part 1](https://programming-26.mooc.fi/part-1)*, solved exercies. And I reviewed my Python knowledge.
 - - 1. Getting started
     2. Information from the user
     3. More about variables
