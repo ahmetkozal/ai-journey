@@ -43,6 +43,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
     4. Simple loops
 ---
 Now I'm at *[Part 3](https://programming-26.mooc.fi/part-3)*
+--
 *[MOOC FI](https://www.mooc.fi/en/profile/)*
 ----
 ## 📚 Useful **FREE** sites
