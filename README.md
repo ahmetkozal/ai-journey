@@ -39,7 +39,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 
 ### Courses
 - [mooc.fi](https://www.mooc.fi/en/)
-- [programming-26.mooc.fi](https://programming-26.mooc.fi/)
+- [programming-26.mooc.fi](https://programming-26.mooc.fi/) (You might need to update the year in the link, 26 to 27, 28, 29, 30...)
 - [data-analysis-with-python-2024-2025](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2024-2025)
 - [Fast.ai - Practical Deep Learning](https://www.fast.ai/)
 
