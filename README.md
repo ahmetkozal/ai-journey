@@ -42,8 +42,8 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
     3. Combining conditions
     4. Simple loops
 ---
-Now I'm at **[Part 3](https://programming-26.mooc.fi/part-3)*
----
+Now I'm at *[Part 3](https://programming-26.mooc.fi/part-3)*
+----
 ## 📚 Useful **FREE** sites
 
 ### Courses
