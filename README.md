@@ -9,6 +9,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - [ ] *[Kaggle data-visualization](https://www.kaggle.com/learn/data-visualization)*
 - [ ] **Mod 2:** Traditional Machine Learning
 - [ ] *[Stanford CS229: Machine Learning Full Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)*
+- [ ] *[Scikit official docs](https://scikit-learn.org/stable/user_guide.html)*
 - [ ] **Mod 3:** Deep Learning & PyTorch
 - [ ] *[fast.ai Practical Deep Learning](https://course.fast.ai/)*
 - [ ] *[deeplearning](https://www.deeplearning.ai/courses/machine-learning-specialization/)*
