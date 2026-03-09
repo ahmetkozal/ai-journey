@@ -49,6 +49,12 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - - [X] 2. Working with strings
 - - [ ] 3. More loops
 - - [ ] 4. Defining functions
+### 10 March 2026
+- **Topic:**  **Mod 0:** Python Foundations.
+- **Status:** Completed the Helsinki Python MOOC *[Part 3](https://programming-26.mooc.fi/part-3)*, **More Loops**
+- *[Part 3](https://programming-26.mooc.fi/part-3)*
+- - [X] 3. More loops
+- - [ ] 4. Defining functions
 ----
 ### 💡 Learning Archive
 - **[String.center()](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L4-L13)** | *Used in "A framed word" exercise.*
