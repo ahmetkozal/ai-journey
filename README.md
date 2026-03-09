@@ -30,17 +30,26 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 ### 06 March 2026
 - **Topic:**  **Mod 0:** Python Foundations.
 - **Status:** Completed the Helsinki Python MOOC *[Part 1](https://programming-26.mooc.fi/part-1)* and *[Part 2](https://programming-26.mooc.fi/part-1)*, solved exercies. And I reviewed my Python knowledge.
-- *[Part 1](https://programming-26.mooc.fi/part-1)*
-- - 1. Getting started
-    2. Information from the user
-    3. More about variables
-    4. Arithmetic operations
-    5. Conditional statements
-- *[Part 2](https://programming-26.mooc.fi/part-1)*
-- - 1. Programming terminology
-    2. More conditionals
-    3. Combining conditions
-    4. Simple loops
+- [X] *[Part 1](https://programming-26.mooc.fi/part-1)*
+- - [X] 1. Getting started
+  - [X] 2. Information from the user
+  - [X] 3. More about variables
+  - [X] 4. Arithmetic operations
+  - [X] 5. Conditional statements
+- [X] *[Part 2](https://programming-26.mooc.fi/part-1)*
+- - [X] 1. Programming terminology
+- - [X] 2. More conditionals
+- - [X] 3. Combining conditions
+- - [X] 4. Simple loops
+### 06 March 2026
+- **Topic:**  **Mod 0:** Python Foundations.
+- **Status:** Completed the Helsinki Python MOOC *[Part 3](https://programming-26.mooc.fi/part-3)*, **Loops with conditions** and **Working with strings** , solved exercies. And I reviewed my Python knowledge.
+- *[Part 3](https://programming-26.mooc.fi/part-3)*
+- - [X] 1. Loops with conditions
+- - [X] 2. Working with strings
+- - [ ] 3. More loops
+- - [ ] 4. Defining functions
+- I learned *(string.center() function)[https://github.com/ahmetkozal/ai-journey/blob/57f2afbce53ddc9ba000c6b7d2c4184313243327/python_cheat_sheet.py#L4-L13]* 
 ---
 Now I'm at *[Part 3](https://programming-26.mooc.fi/part-3)*
 --
