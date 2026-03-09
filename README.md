@@ -50,9 +50,9 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - - [ ] 3. More loops
 - - [ ] 4. Defining functions
 ----
-####I learned####
+**I learned**
 - I learned *(string.center() function)[https://github.com/ahmetkozal/ai-journey/blob/57f2afbce53ddc9ba000c6b7d2c4184313243327/python_cheat_sheet.py#L4-L13]* 
----
+----
 Now I'm at *[Part 3](https://programming-26.mooc.fi/part-3)*
 --
 *[MOOC FI](https://www.mooc.fi/en/profile/)*
