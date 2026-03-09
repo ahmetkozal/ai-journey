@@ -59,6 +59,9 @@ Now I'm at *[Part 3](https://programming-26.mooc.fi/part-3)*
 ----
 ## 📚 Useful **FREE** sites
 
+### 🧠 Conceptual Background (Theoretical AI)
+- [ ] *[Elements of AI: Building AI](https://course.elementsofai.com/))* (Low priority, read for vision)
+
 ### Courses
 - [mooc.fi](https://www.mooc.fi/en/)
 - [programming-26.mooc.fi](https://programming-26.mooc.fi/) (You might need to update the year in the link, 26 to 27, 28, 29, 30...)
