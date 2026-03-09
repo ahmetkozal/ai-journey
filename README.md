@@ -32,10 +32,10 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - **Status:** Completed the Helsinki Python MOOC *[Part 1](https://programming-26.mooc.fi/part-1)* and *[Part 2](https://programming-26.mooc.fi/part-1)*, solved exercies. And I reviewed my Python knowledge.
 - [X] *[Part 1](https://programming-26.mooc.fi/part-1)*
 - - [X] 1. Getting started
-  - [X] 2. Information from the user
-  - [X] 3. More about variables
-  - [X] 4. Arithmetic operations
-  - [X] 5. Conditional statements
+- - [X] 2. Information from the user
+- - [X] 3. More about variables
+- - [X] 4. Arithmetic operations
+- - [X] 5. Conditional statements
 - [X] *[Part 2](https://programming-26.mooc.fi/part-1)*
 - - [X] 1. Programming terminology
 - - [X] 2. More conditionals
@@ -43,7 +43,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - - [X] 4. Simple loops
 ### 06 March 2026
 - **Topic:**  **Mod 0:** Python Foundations.
-- **Status:** Completed the Helsinki Python MOOC *[Part 3](https://programming-26.mooc.fi/part-3)*, **Loops with conditions** and **Working with strings** , solved exercies. And I reviewed my Python knowledge.
+- **Status:** Completed the Helsinki Python MOOC *[Part 3](https://programming-26.mooc.fi/part-3)*, **Loops with conditions** and **Working with strings** , solved exercies. And I reviewed my Python knowledge. I saw I'm weak at string manupilations. I should work on it and loop logics.
 - *[Part 3](https://programming-26.mooc.fi/part-3)*
 - - [X] 1. Loops with conditions
 - - [X] 2. Working with strings
