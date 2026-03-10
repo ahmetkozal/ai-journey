@@ -58,6 +58,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 ----
 ### 💡 Learning Archive
 - **[String.center()](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L4-L13)** | *Used in "A framed word" exercise.*
+- **[Cyclic Pattern](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L14-L33)** | *Used in "A word squared" exercise.*
 ----
 Now I'm at *[Part 4](https://programming-26.mooc.fi/part-4)*
 ----
