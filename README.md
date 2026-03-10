@@ -31,36 +31,39 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 ### 05 March 2026
 - **Topic:** Initialized the repository.
 - **Status:** Ready to start Mod 0: Python Foundations.
+---
 ### 06 March 2026
 - **Topic:**  **Mod 0:** Python Foundations.
 - **Status:** Completed the Helsinki Python MOOC *[Part 1](https://programming-26.mooc.fi/part-1)* and *[Part 2](https://programming-26.mooc.fi/part-1)*, solved exercies. And I reviewed my Python knowledge.
-- [X] *[Part 1](https://programming-26.mooc.fi/part-1)*
+- [X] **Part 1**
 - - [X] 1. Getting started
 - - [X] 2. Information from the user
 - - [X] 3. More about variables
 - - [X] 4. Arithmetic operations
 - - [X] 5. Conditional statements
-- [X] *[Part 2](https://programming-26.mooc.fi/part-1)*
+- [X] **Part 2**
 - - [X] 1. Programming terminology
 - - [X] 2. More conditionals
 - - [X] 3. Combining conditions
 - - [X] 4. Simple loops
+---
 ### 09 March 2026
 - **Topic:**  **Mod 0:** Python Foundations.
 - **Status:** Completed the Helsinki Python MOOC *[Part 3](https://programming-26.mooc.fi/part-3)*, **Loops with conditions** and **Working with strings** , solved exercies. And I reviewed my Python knowledge. *I saw that I'm weak at string manupilations. I should work on it and loop logics.*
-- *[Part 3](https://programming-26.mooc.fi/part-3)*
+- **Part 3**
 - - [X] 1. Loops with conditions
 - - [X] 2. Working with strings
 - - [ ] 3. More loops
 - - [ ] 4. Defining functions
+---
 ### 10 March 2026
 - **Topic:**  **Mod 0:** Python Foundations.
 - **Status:** Completed the Helsinki Python MOOC *[Part 3](https://programming-26.mooc.fi/part-3)*, **More Loops** and **Defining functions**.
-- *[Part 3](https://programming-26.mooc.fi/part-3)*
+- **Part 3**
 - - [X] 3. More loops
 - - [X] 4. Defining functions
 - **Status:** Completed the Helsinki Python MOOC *[Part 4](https://programming-26.mooc.fi/part-4)*, **More Loops** and **Defining functions**.
-- *[Part 4](https://programming-26.mooc.fi/part-4)*
+- **Part 4**
 - - [X] 1. The Visual Studio Code editor, Python interpreter and built-in debugging tool
 - - [X] 2. More functions
 - - [ ] 3. Lists
