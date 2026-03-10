@@ -22,7 +22,9 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 
 ## Learning Log
 *Format: [Date] | Topic | Key Takeaway / Blocker*
-
+<details>
+<summary><b>LOGS</b></summary>
+  
 ---
 ### 05 March 2026
 - **Topic:** Initialized the repository.
@@ -55,7 +57,16 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - *[Part 3](https://programming-26.mooc.fi/part-3)*
 - - [X] 3. More loops
 - - [X] 4. Defining functions
+- **Status:** Completed the Helsinki Python MOOC *[Part 4](https://programming-26.mooc.fi/part-4)*, **More Loops** and **Defining functions**.
+- *[Part 4](https://programming-26.mooc.fi/part-4)*
+- - [X] 1. The Visual Studio Code editor, Python interpreter and built-in debugging tool
+- - [X] 2. More functions
+- - [ ] 3. Lists
+- - [ ] 4. Definite iteration
+- - [ ] 5. Print statement formatting
+- - [ ] 6. More strings and lists 
 ----
+</details>
 ### 💡 Learning Archive
 - **[String.center()](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L4-L13)** | *Used in "A framed word" exercise.*
 - **[Cyclic Pattern](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L14-L33)** | *Used in "A word squared" exercise.*
