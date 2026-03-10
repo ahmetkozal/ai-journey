@@ -64,7 +64,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - **Part 3**
 - - [X] 3. More loops
 - - [X] 4. Defining functions
-- **Status:** Completed the Helsinki Python MOOC *[Part 4](https://programming-26.mooc.fi/part-4)* I reviewed my knowledge in functions.
+- **Status:** Helsinki Python MOOC *[Part 4](https://programming-26.mooc.fi/part-4)* I reviewed my knowledge in functions.
 - **Part 4**
 - - [X] 1. The Visual Studio Code editor, Python interpreter and built-in debugging tool
 - - [X] 2. More functions
