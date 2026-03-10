@@ -10,8 +10,8 @@ def center_word_with(text,width,symbol):
 print(center_word("test",10))
 print(center_word_with("test",10,"*"))
 # ==========================================
+# CYCLIC PATTERN (Cycling through strings/lists) ---
 # ==========================================
-# --- Cyclic Pattern (Cycling through strings/lists) ---
 # Used to wrap around an index without using 'if' statements.
 # Concept: Modulo (%) operator gives the remainder, creating a loop-back effect.
 def print_cyclic_grid(text, num):
