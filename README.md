@@ -51,7 +51,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 ---
 ### 09 March 2026
 - **Topic:**  **Mod 0:** Python Foundations.
-- **Status:** Completed the Helsinki Python MOOC *[Part 3](https://programming-26.mooc.fi/part-3)*, **Loops with conditions** and **Working with strings** , solved exercies. And I reviewed my Python knowledge. *I saw that I'm weak at string manupilations. I should work on it and loop logics.*
+- **Status:** Helsinki Python MOOC *[Part 3](https://programming-26.mooc.fi/part-3)*, solved exercies. And I reviewed my Python knowledge. *I saw that I'm weak at string manupilations. I should work on it and loop logics.*
 - **Part 3**
 - - [X] 1. Loops with conditions
 - - [X] 2. Working with strings
@@ -60,16 +60,16 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 ---
 ### 10 March 2026
 - **Topic:**  **Mod 0:** Python Foundations.
-- **Status:** Completed the Helsinki Python MOOC *[Part 3](https://programming-26.mooc.fi/part-3)*, **More Loops** and **Defining functions**.
+- **Status:** Completed the Helsinki Python MOOC *[Part 3](https://programming-26.mooc.fi/part-3)*
 - **Part 3**
 - - [X] 3. More loops
 - - [X] 4. Defining functions
-- **Status:** Completed the Helsinki Python MOOC *[Part 4](https://programming-26.mooc.fi/part-4)*, **The Visual Studio Code editor** and **More functions**.
+- **Status:** Completed the Helsinki Python MOOC *[Part 4](https://programming-26.mooc.fi/part-4)* I reviewed my knowledge in functions.
 - **Part 4**
 - - [X] 1. The Visual Studio Code editor, Python interpreter and built-in debugging tool
 - - [X] 2. More functions
-- - [ ] 3. Lists
-- - [ ] 4. Definite iteration
+- - [X] 3. Lists
+- - [X] 4. Definite iteration
 - - [ ] 5. Print statement formatting
 - - [ ] 6. More strings and lists 
 ----
@@ -79,8 +79,20 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 <details>
   <summary><b>💡 Learning Archive</b></summary>
   
-- **[String.center()](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L4-L13)** | *Used in "A framed word" exercise.*
-- **[Cyclic Pattern](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L14-L33)** | *Used in "A word squared" exercise.*
+  <details>
+    <summary><b>Keywords</b></summary>
+
+- **[collections.Counter()](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L32-L39)** | *Used in "A word squared" exercise.*  
+- **[String.center()](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L1-L11)** | *Used in "A framed word" exercise.*
+  </details>
+
+    <details>
+    <summary><b>Logics</b></summary>
+    
+- **[Cyclic Pattern](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L13-L30)** | *Used in "A word squared" exercise.*
+
+  </details>
+
 </details>
 ----
 <details>
