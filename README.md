@@ -82,7 +82,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 </details>
 
 ----
--Now I'm at *[Part 4](https://programming-26.mooc.fi/part-4)*
+-Now I'm at **Mod 0:** Python Foundations (Helsinki MOOC)
 ----
 <details>
   <summary><b>📚 Useful **FREE** sites</b></summary>
