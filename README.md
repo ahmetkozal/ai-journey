@@ -20,6 +20,8 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - [ ] *[Hugging Face - NLP Course](https://huggingface.co/learn/llm-course/chapter1/1)*
 - [ ] *[The Illustrated Transformer (Blog)](https://jalammar.github.io/illustrated-transformer/)*
 
+##Now I'm at **Mod 0:** Python Foundations (Helsinki MOOC)
+
 ## Learning Log
 <details>
 <summary><b>LOGS</b></summary>
@@ -80,9 +82,6 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - **[String.center()](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L4-L13)** | *Used in "A framed word" exercise.*
 - **[Cyclic Pattern](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L14-L33)** | *Used in "A word squared" exercise.*
 </details>
-
-----
--Now I'm at **Mod 0:** Python Foundations (Helsinki MOOC)
 ----
 <details>
   <summary><b>📚 Useful **FREE** sites</b></summary>
