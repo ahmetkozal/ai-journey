@@ -98,6 +98,11 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 <details>
   <summary><b>📚 Useful **FREE** sites</b></summary>
 
+## 🛠 Tech Stack
+* **Language:** Python
+* **Tools:** Git, VS Code, TMC (Test My Code)
+* **OS:** Windows
+
 ### 🧠 Conceptual Background (Theoretical AI)
 - [ ] *[Elements of AI: Building AI](https://course.elementsofai.com/))* (Low priority, read for vision)
 
