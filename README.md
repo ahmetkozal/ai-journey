@@ -21,11 +21,13 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - [ ] *[The Illustrated Transformer (Blog)](https://jalammar.github.io/illustrated-transformer/)*
 
 ## Learning Log
-*Format: [Date] | Topic | Key Takeaway / Blocker*
 <details>
 <summary><b>LOGS</b></summary>
   
 ---
+<details>
+<summary><b>March 2026 (Active)</b></summary>
+  
 ### 05 March 2026
 - **Topic:** Initialized the repository.
 - **Status:** Ready to start Mod 0: Python Foundations.
@@ -67,7 +69,8 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - - [ ] 6. More strings and lists 
 ----
 </details>
-### 💡 Learning Archive
+</details>
+## 💡 Learning Archive
 - **[String.center()](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L4-L13)** | *Used in "A framed word" exercise.*
 - **[Cyclic Pattern](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L14-L33)** | *Used in "A word squared" exercise.*
 ----
