@@ -77,12 +77,11 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - **[String.center()](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L4-L13)** | *Used in "A framed word" exercise.*
 - **[Cyclic Pattern](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L14-L33)** | *Used in "A word squared" exercise.*
 </details>
-----
+---
 Now I'm at *[Part 4](https://programming-26.mooc.fi/part-4)*
 ----
-*[MOOC FI](https://www.mooc.fi/en/profile/)*
-----
-## 📚 Useful **FREE** sites
+<details>
+  <summary><b>📚 Useful **FREE** sites</b></summary>
 
 ### 🧠 Conceptual Background (Theoretical AI)
 - [ ] *[Elements of AI: Building AI](https://course.elementsofai.com/))* (Low priority, read for vision)
@@ -105,3 +104,5 @@ Now I'm at *[Part 4](https://programming-26.mooc.fi/part-4)*
 - [tldr.tech](https://tldr.tech/)
 - [deeplearning.ai](https://www.deeplearning.ai/the-batch/)
 - [towardsdatascience](https://towardsdatascience.com/)
+
+</details>
