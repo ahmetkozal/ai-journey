@@ -24,8 +24,8 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 
 ## Learning Log
 <details>
-<summary><b>LOGS</b></summary>
-  
+<summary><b>LOGS</b></summary>  
+
 ---
 <details>
 <summary><b>March 2026 (Active)</b></summary>
