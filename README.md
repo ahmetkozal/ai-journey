@@ -20,7 +20,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - [ ] *[Hugging Face - NLP Course](https://huggingface.co/learn/llm-course/chapter1/1)*
 - [ ] *[The Illustrated Transformer (Blog)](https://jalammar.github.io/illustrated-transformer/)*
 
-##Now I'm at **Mod 0:** Python Foundations (Helsinki MOOC)
+## Now I'm at **Mod 0:** Python Foundations (Helsinki MOOC)
 
 ## Learning Log
 <details>
