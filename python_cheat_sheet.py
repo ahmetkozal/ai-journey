@@ -1,7 +1,7 @@
 # ==========================================
 # STRING MANIPULATION
 # ==========================================
-# 1. Keyword: string.center() - https://docs.python.org/3/library/stdtypes.html#str.center
+# Keyword: string.center() - https://docs.python.org/3/library/stdtypes.html#str.center
 # Return centered in a string of length width.
 def center_word(text,width):
   return text.center(width)
@@ -9,6 +9,7 @@ def center_word_with(text,width,symbol):
   return text.center(width,symbol)
 print(center_word("test",10))
 print(center_word_with("test",10,"*"))
+
 # ==========================================
 # CYCLIC PATTERN (Cycling through strings/lists) ---
 # ==========================================
@@ -27,4 +28,12 @@ def print_cyclic_grid(text, num):
 # aba
 # bab
 # aba
+
 # ==========================================
+# COLLECTIONS
+# ==========================================
+# Keyword: collections.Counter() - https://docs.python.org/3/library/collections.html#collections.Counter
+# counts elements in collections, elements are stored as dictionary keys and their counts are stored as dictionary values.
+from collections import Counter
+def counter_test(l1,l2):
+  return True if Counter(list(l1))==Counter(list(l2)) else False
