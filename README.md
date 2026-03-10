@@ -59,8 +59,8 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 ### 💡 Learning Archive
 - **[String.center()](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L4-L13)** | *Used in "A framed word" exercise.*
 ----
-Now I'm at *[Part 3](https://programming-26.mooc.fi/part-3)*
---
+Now I'm at *[Part 4](https://programming-26.mooc.fi/part-4)*
+----
 *[MOOC FI](https://www.mooc.fi/en/profile/)*
 ----
 ## 📚 Useful **FREE** sites
