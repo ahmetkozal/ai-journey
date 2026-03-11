@@ -71,7 +71,14 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - - [X] 3. Lists
 - - [X] 4. Definite iteration
 - - [ ] 5. Print statement formatting
-- - [ ] 6. More strings and lists 
+- - [ ] 6. More strings and lists
+---
+### 11 March 2026
+- **Topic:**  **Mod 0:** Python Foundations.
+- **Status:** Completed the Helsinki Python MOOC *[Part 4](https://programming-26.mooc.fi/part-4)*
+- **Part 4**
+- - [X] 5. Print statement formatting
+- - [X] 6. More strings and lists
 ----
 </details>
 </details>
