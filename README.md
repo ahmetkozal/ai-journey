@@ -99,9 +99,10 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
   
   <details>
     <summary><b>Keywords</b></summary>
-
-- **[collections.Counter()](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L32-L39)** | *Used in "A word squared" exercise.*  
+    
 - **[String.center()](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L1-L11)** | *Used in "A framed word" exercise.*
+- **[collections.Counter()](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L32-L39)** | *Used in "A word squared" exercise.*  
+- **[all(iterable)](https://github.com/ahmetkozal/ai-journey/blob/main/python_cheat_sheet.py#L40-L49)** | *Used in "Sudoku: Check grid" exercise.*
   </details>
 
     <details>
