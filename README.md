@@ -27,8 +27,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 
 <details>
 <summary><b>LOGS</b></summary>  
-
----
+  
 <details>
 <summary><b>March 2026 (Active)</b></summary>
   
@@ -95,6 +94,8 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 
 </details>
 </details>
+
+---
 
 <details>
   <summary><b>💡 Learning Archive</b></summary>
