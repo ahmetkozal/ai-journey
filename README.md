@@ -23,6 +23,8 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 ## Now I'm at **Mod 0:** Python Foundations (Helsinki MOOC)
 
 ## Learning Log
+---
+
 <details>
 <summary><b>LOGS</b></summary>  
 
@@ -95,7 +97,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 </details>
 
 <details>
-  ## <summary><b>💡 Learning Archive</b></summary>
+  <summary><b>💡 Learning Archive</b></summary>
   
   <details>
     <summary><b>Keywords</b></summary>
