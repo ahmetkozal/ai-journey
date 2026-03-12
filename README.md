@@ -79,12 +79,23 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - **Part 4**
 - - [X] 5. Print statement formatting
 - - [X] 6. More strings and lists
+---
+### 12 March 2026
+- **Topic:**  **Mod 0:** Python Foundations.
+- **Status:** Completed the Helsinki Python MOOC *[Part 5](https://programming-26.mooc.fi/part-5)*
+- **Part 5**
+- - [X] 1. More lists
+- - [ ] 2. References
+- - [ ] 3. Dictionary
+- - [ ] 4. Tuple
+
 ----
+
 </details>
 </details>
 
 <details>
-  <summary><b>💡 Learning Archive</b></summary>
+  ## <summary><b>💡 Learning Archive</b></summary>
   
   <details>
     <summary><b>Keywords</b></summary>
