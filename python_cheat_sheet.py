@@ -37,3 +37,14 @@ def print_cyclic_grid(text, num):
 from collections import Counter
 def counter_test(l1,l2):
   return True if Counter(list(l1))==Counter(list(l2)) else False
+# ==========================================
+# ITERABLES
+# ==========================================
+# Keyword : all(iterable) - https://docs.python.org/3/library/functions.html#all
+# Returns True if all elements are True or if the iterable is empty.
+def all(iterable):
+    for element in iterable:
+        if not element:
+            return False
+    return True
+
