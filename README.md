@@ -85,10 +85,18 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 ---
 ### 12 March 2026
 - **Topic:**  **Mod 0:** Python Foundations.
-- **Status:** Completed the Helsinki Python MOOC *[Part 5](https://programming-26.mooc.fi/part-5)*
+- **Status:** Helsinki Python MOOC *[Part 5](https://programming-26.mooc.fi/part-5)*
 - **Part 5**
 - - [X] 1. More lists
 - - [ ] 2. References
+- - [ ] 3. Dictionary
+- - [ ] 4. Tuple
+---
+### 13 March 2026
+- **Topic:**  **Mod 0:** Python Foundations.
+- **Status:** Helsinki Python MOOC *[Part 5](https://programming-26.mooc.fi/part-5)*
+- **Part 5**
+- - [X] 2. References
 - - [ ] 3. Dictionary
 - - [ ] 4. Tuple
 
