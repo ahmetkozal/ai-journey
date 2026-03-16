@@ -102,7 +102,7 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 ---
 ### 16 March 2026
 - **Topic:**  **Mod 0:** Python Foundations.
-- **Status:** Helsinki Python MOOC *[Part 5](https://programming-26.mooc.fi/part-5)* Worked on dictionaries. Stuck on "Invert a dictionary" exercies. And figured it out.
+- **Status:** Helsinki Python MOOC *[Part 5](https://programming-26.mooc.fi/part-5)* Worked on dictionaries. Stuck on "Invert a dictionary" exercise. And figured it out.
 - **Part 5**
 - - [X] 3. Dictionary
 - - [ ] 4. Tuple
