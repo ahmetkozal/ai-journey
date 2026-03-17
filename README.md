@@ -106,6 +106,11 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - **Part 5**
 - - [X] 3. Dictionary
 - - [ ] 4. Tuple
+### 17 March 2026
+- **Topic:**  **Mod 0:** Python Foundations.
+- **Status:** Helsinki Python MOOC *[Part 5](https://programming-26.mooc.fi/part-5)* Worked on tuples.
+- **Part 5**
+- - [ ] 4. Tuple
 
 ----
 
