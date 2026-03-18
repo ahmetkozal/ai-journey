@@ -111,6 +111,11 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - **Status:** Helsinki Python MOOC *[Part 5](https://programming-26.mooc.fi/part-5)* Worked on tuples.
 - **Part 5**
 - - [ ] 4. Tuple
+### 18 March 2026
+- **Topic:**  **Mod 0:** Python Foundations.
+- **Status:** Helsinki Python MOOC *[Part 5](https://programming-26.mooc.fi/part-5)* Worked on tuples. Stuck on the last exercise.
+- **Part 5**
+- - [ ] 4. Tuple 
 
 ----
 
