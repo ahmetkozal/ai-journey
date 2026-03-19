@@ -115,7 +115,15 @@ Starting from absolute scratch. This is my public log of learning Python, Data S
 - **Topic:**  **Mod 0:** Python Foundations.
 - **Status:** Helsinki Python MOOC *[Part 5](https://programming-26.mooc.fi/part-5)* Worked on tuples. Stuck on the last exercise. And solved it.
 - **Part 5**
-- - [X] 4. Tuple 
+- - [X] 4. Tuple
+### 19 March 2026
+- **Topic:**  **Mod 0:** Python Foundations.
+- **Status:** Helsinki Python MOOC *[Part 6](https://programming-26.mooc.fi/part-6)* Worked on reading files.
+- **Part 6**
+- - [ ] 1. Reading files
+- - [ ] 2. Writing files
+- - [ ] 3. Handling errors
+- - [ ] 4. Local and global variables
 
 ----
 
